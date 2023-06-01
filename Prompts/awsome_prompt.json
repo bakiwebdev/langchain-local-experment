@@ -1,0 +1,11 @@
+{
+    "input_variables": [
+        "thing"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "i love this {thing}!",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
